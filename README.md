@@ -7,8 +7,8 @@ Enter your age
 Enter your height
 What's your favoriate food?
 
-Output in panel: 
-Hello  Wynne
-You are 24 years old
-You are 152 cm tall
+Output in panel:                  
+Hello  Wynne                    
+You are 24 years old              
+You are 152 cm tall               
 Your favoriate food is: Mango
