@@ -1,11 +1,11 @@
 # SimpleIntroducePanel
 This is a simple program that ask about brief information about the user then output the information in a panel. 
 
-Example Program Output:           
-Enter your name
-Enter your age
-Enter your height
-What's your favoriate food?
+Example Program Output:                    
+Enter your name               
+Enter your age                  
+Enter your height                 
+What's your favoriate food?           
 
 Output in panel:                  
 Hello  Wynne                    
